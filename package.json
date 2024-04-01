@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namste React learning from namaste dev.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjumanna10/ReactLearning.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "Sanju Manna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjumanna10/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/sanjumanna10/ReactLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
